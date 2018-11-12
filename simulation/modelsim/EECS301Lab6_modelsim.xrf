@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, D:/College/Senior-Year/EECS301Lab6.v
+source_file = 1, D:/College/Senior-Year/TF_EECS301Lab6.v
+source_file = 1, D:/College/Senior-Year/db/EECS301Lab6.cbx.xml
+design_name = EECS301Lab6
+instance = comp, \U~output , U~output, EECS301Lab6, 1
+instance = comp, \Kout~output , Kout~output, EECS301Lab6, 1
+instance = comp, \X~input , X~input, EECS301Lab6, 1
+instance = comp, \Kin~input , Kin~input, EECS301Lab6, 1
+instance = comp, \Y~input , Y~input, EECS301Lab6, 1
+instance = comp, \En~input , En~input, EECS301Lab6, 1
+instance = comp, \U~0 , U~0, EECS301Lab6, 1
+instance = comp, \Kout~0 , Kout~0, EECS301Lab6, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, EECS301Lab6, 1
